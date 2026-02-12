@@ -1,0 +1,37 @@
+# Built files
+*.iml
+.gradle
+/local.properties
+/build
+*/build/
+/captures
+.externalNativeBuild
+.cxx
+
+# IDE
+/.vscode
+/.idea/*
+!/.idea/codeStyles
+
+# Kotlin
+.kotlin
+
+# Logs
+*.log
+
+# Java heap dumps
+*.hprof
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Gradle
+.gradle/
+gradle-app.setting
+
+# Android Studio
+*.iml
+*.ipr
+*.iws
+.idea/
