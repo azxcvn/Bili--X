@@ -16,7 +16,9 @@
 
 - 仅适配 bilibili 国际版 3.20.4 及以下版本，请不要用于更高版本。
 - 请务必使用 **JDK 11** 进行构建和注入
-- 如果你还是没看懂，请直接查看原项目：https://github.com/BiliRoamingX/BiliRoamingX；如果你在编译中遇到了任何报错，请将错误发送给 AI 进行分析。
+- 如果你还是没看懂，请直接查看原项目：
+	https://github.com/BiliRoamingX/BiliRoamingX
+- 如果你在编译中遇到了任何报错，请将错误发送给 AI 进行分析。
 
 致谢：https://github.com/BiliRoamingX/BiliRoamingX
 
